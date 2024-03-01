@@ -38,7 +38,7 @@
 <table>
   <tr>
    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/73456ae0-53d6-4e53-acda-d67d1cbd891b" alt="login" />
-   <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/bca50676-803f-4884-8a98-cebb5e452ce5" alt="register" /></td>
+   <td><img src="https://github.com/Touqeer001/job-posting-web-application/assets/126690073/6e7d90bc-3331-4ea3-8921-bee830bdf98d" alt="register" /></td>
   </tr>
   <tr>
    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/af545b33-1642-48bf-9823-a0ee4ef3be73" alt="Forgot Password" /></td>
