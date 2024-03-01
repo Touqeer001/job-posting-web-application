@@ -29,6 +29,8 @@
 - - **editJob/:Id 5**: get course name with the help of id.
 - **deletedjobcategory  6**: this route check availibility for date.
 
+<br/>
+
 ## Glimpses of project 🙈 :
 
 
