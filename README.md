@@ -29,6 +29,17 @@
 - - **editJob/:Id 5**: get course name with the help of id.
 - **deletedjobcategory  6**: this route check availibility for date.
 
+- ## Glimpses of project 🙈 :
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/73456ae0-53d6-4e53-acda-d67d1cbd891b" alt="login" /></td>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/bca50676-803f-4884-8a98-cebb5e452ce5" alt="register" /></td>
+  </tr>
+ 
+</table>
+
 - ## Getting Started
 
 This project was built using React v 17.0.2, Redux v 4.1.1, Bootstrap, CSS, JavaScript, Rest API, Node JS, Express and MongoDBand jwt token. It is an Online Lecture Sheduling Module web application and for running on your local environment you should follow these guidelines.
