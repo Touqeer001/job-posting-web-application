@@ -28,6 +28,7 @@
 - **getjobname/:Id 5**: get course name with the help of id.
 - - **editJob/:Id 5**: get course name with the help of id.
 - **deletedjobcategory  6**: this route check availibility for date.
+-  ![cover](https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/46bd4032-5a30-439b-b2a5-c1135f4a6eb5)
 
 <br/>
 
